@@ -17,13 +17,13 @@ Here are some ideas to get you started:
     <img src="pokemon_blue.gif" width="260px" align="left" alt="Image from: https://tacciane.tumblr.com/">
     <div>
         <a href="https://maxwelldemaio.github.io/"><img src="https://img.shields.io/badge/-My%20Website-black?style=flat"></a>
-        <a href="https://maxwelldemaio.github.io/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat"></a>
-        <a href="https://twitter.com/maxwelldemaio"><img src="https://img.shields.io/badge/-Twitter-black?style=flat"></a>
+        <a href="https://www.linkedin.com/in/maxwell-demaio/"><img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=@maxwelldemaio&color=488787&labelColor=black"></a>
+        <a href="https://twitter.com/maxwelldemaio"><img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@maxwelldemaio&color=488787&labelColor=black"></a>
+        <a><img src="https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@maxwelldemaio&color=488787&labelColor=black"></a>
         <a href="https://duome.eu/maxwelldemaio"><img src="https://img.shields.io/badge/Duolingo-black?style=flat"></a>
-        <br>
         <hr>
         <samp>
-        I'm a self-taught web-developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical business solutions and making development processes as efficient as possible.
+        <strong>Hi, I'm Max!</strong> 👋 I'm a self-taught web-developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical business solutions and making development processes as efficient as possible.
         </samp>
         <br>
     </div>
