@@ -22,7 +22,7 @@ Here are some ideas to get you started:
         <a href="https://www.linkedin.com/in/maxwell-demaio/"><img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=LinkedIn&color=2d5555&labelColor=3f7676&logoColor=dfeeee"></a>
         <hr>
         <samp>
-        <strong>Hi, I'm Max!</strong> 👋 I'm a self-taught web-developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical business solutions and making development processes as efficient as possible.
+        <strong>Hi, I'm Max!</strong> 👋 I'm a self-taught web developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical business solutions and making development processes as efficient as possible.
         </samp>
         <br>
     </div>
