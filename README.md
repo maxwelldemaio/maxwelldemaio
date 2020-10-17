@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/maxwelldemaio"><img src="https://img.shields.io/twitter/follow/maxwelldemaio?style=for-the-badge&logo=twitter"></a>
 
-I'm Max DeMaio a self-taught web-developer with a strong will for learning and researching new technologies and architectural solutions. I like creating practical business solutions and making development processes as efficient as possible.
+<p>
+I'm a self-taught web-developer with a strong will to learn, research new technologies, and design architectural solutions. I like creating practical business solutions and making development processes as efficient as possible.
+</p>
 
-<img src="pokemon_blue.gif" width="240px" align="center">
+<p align="center">
+<img src="pokemon_blue.gif" width="260px" align="center" alt="Image from: https://tacciane.tumblr.com/">
+</p>
+
 <hr>
 
 <a href="https://github.com/maxwelldemaio">
