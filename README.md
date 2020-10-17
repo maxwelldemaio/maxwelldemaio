@@ -13,17 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm <a href="https://github.com/maxwelldemaio">Max DeMaio</a> 👋
-
-
-<a href="https://twitter.com/maxwelldemaio"><img src="https://img.shields.io/twitter/follow/maxwelldemaio?style=for-the-badge&logo=twitter"></a>
+### Hi there, I'm **Max DeMaio** 👋
 
 <p>
-I'm a self-taught web-developer with a strong will to learn, research new technologies, and design architectural solutions. I like creating practical business solutions and making development processes as efficient as possible.
+I'm a self-taught web-developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical business solutions and making development processes as efficient as possible.
 </p>
 
 <p align="center">
-<img src="pokemon_blue.gif" width="260px" align="center" alt="Image from: https://tacciane.tumblr.com/">
+    <img src="pokemon_blue.gif" width="280px" align="center" alt="Image from: https://tacciane.tumblr.com/">
+    <br>
+    <samp>
+        Links:
+    </samp>
+    <br>
+    <a href="https://twitter.com/maxwelldemaio"><img src="https://img.shields.io/twitter/follow/maxwelldemaio?style=for-the-badge&logo=twitter"></a>
+    <br>
 </p>
 
 <hr>
