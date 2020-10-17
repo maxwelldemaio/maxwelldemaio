@@ -13,25 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Max DeMaio 👋
-
 <p>
     <img src="pokemon_blue.gif" width="260px" align="left" alt="Image from: https://tacciane.tumblr.com/">
     <div>
-        <a href="https://maxwelldemaio.github.io/"><img src="https://img.shields.io/badge/-My%20Website-orange?style=for-the-badge"></a>
-        <a href="https://maxwelldemaio.github.io/"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge"></a>
-        <a href="https://www.duolingo.com/profile/maxwelldemaio"><img src="https://img.shields.io/badge/Duolingo-green?style=for-the-badge"></a>
+        <a href="https://maxwelldemaio.github.io/"><img src="https://img.shields.io/badge/-My%20Website-black?style=flat"></a>
+        <a href="https://maxwelldemaio.github.io/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat"></a>
+        <a href="https://twitter.com/maxwelldemaio"><img src="https://img.shields.io/badge/-Twitter-black?style=flat"></a>
+        <a href="https://duome.eu/maxwelldemaio"><img src="https://img.shields.io/badge/Duolingo-black?style=flat"></a>
         <br>
+        <hr>
         <samp>
         I'm a self-taught web-developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical business solutions and making development processes as efficient as possible.
         </samp>
         <br>
     </div>
 </p>
-
-<hr>
-<br>
-
-<p>
-<a href="https://github.com/maxwelldemaio"><img align="left" src="https://github-readme-stats.vercel.app/api?username=maxwelldemaio&count_private=true&include_all_commits=true&hide_rank=false&show_icons=true&theme=graywhite" /></a>
-<p>
