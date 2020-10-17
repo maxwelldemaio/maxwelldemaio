@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+<br>
 
-<div>
 <a href="https://github.com/maxwelldemaio"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxwelldemaio&count_private=true&include_all_commits=true&hide_rank=false&show_icons=true&theme=graywhite" /></a>
-</div>
