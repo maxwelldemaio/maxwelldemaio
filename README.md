@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 I'm Max DeMaio a self-taught web-developer with a strong will for learning and researching new technologies and architectural solutions. I like creating practical business solutions and making development processes as efficient as possible.
 
+<img src="pokemon_blue.gif" width="240px" align="center">
 <hr>
 
 <a href="https://github.com/maxwelldemaio">
