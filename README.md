@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Max DeMaio 👋
 
 <p>
-    <img src="pokemon_blue.gif" width="280px" align="left" alt="Image from: https://tacciane.tumblr.com/">
+    <img src="pokemon_blue.gif" width="260px" align="left" alt="Image from: https://tacciane.tumblr.com/">
     <div>
         <a href="https://maxwelldemaio.github.io/"><img src="https://img.shields.io/badge/-My%20Website-orange?style=for-the-badge"></a>
         <a href="https://maxwelldemaio.github.io/"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge"></a>
@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
-<a href="https://github.com/maxwelldemaio"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxwelldemaio&count_private=true&include_all_commits=true&hide_rank=false&show_icons=true&theme=graywhite" /></a>
+<p>
+<a href="https://github.com/maxwelldemaio"><img align="left" src="https://github-readme-stats.vercel.app/api?username=maxwelldemaio&count_private=true&include_all_commits=true&hide_rank=false&show_icons=true&theme=graywhite" /></a>
+<p>
