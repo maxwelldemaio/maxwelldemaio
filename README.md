@@ -19,6 +19,7 @@ Here are some ideas to get you started:
         <a href="https://maxwelldemaio.github.io/"><img src="https://img.shields.io/badge/-My%20Website-2d5555?style=flat"></a>
         <a href="https://twitter.com/maxwelldemaio"><img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@maxwelldemaio&color=2d5555&labelColor=3f7676&logoColor=dfeeee"></a>
         <a href="https://github.com/maxwelldemaio"><img src="https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@maxwelldemaio&color=2d5555&labelColor=3f7676&logoColor=dfeeee"></a>
+        <a href="https://www.youtube.com/channel/UCXzTmvY30ODYPrpVImJEVBQ"><img src="https://img.shields.io/static/v1?style=flat-square&logo=youtube&label=&message=YouTube&color=2d5555&labelColor=3f7676&logoColor=dfeeee"></a>
         <a href="https://www.linkedin.com/in/maxwell-demaio/"><img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=LinkedIn&color=2d5555&labelColor=3f7676&logoColor=dfeeee"></a>
         <hr>
         <samp>
