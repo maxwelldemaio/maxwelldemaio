@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-    <img src="pokemon_blue.gif" width="290px" align="left" alt="Image from: https://tacciane.tumblr.com/">
+    <img src="pokemon_blue.gif" width="290px" align="right" alt="Image from: https://tacciane.tumblr.com/">
     <div>
         <a href="https://maxdemaio.herokuapp.com/"><img src="https://img.shields.io/badge/-My%20Website-2d5555?style=flat"></a>
         <a href="https://twitter.com/maxwelldemaio"><img src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@maxwelldemaio&color=2d5555&labelColor=3f7676&logoColor=dfeeee"></a>
